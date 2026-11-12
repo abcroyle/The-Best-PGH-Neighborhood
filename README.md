@@ -6,9 +6,9 @@ To determine what makes a good neighborhood, our team referred to Figure 4 in ["
 Using these metrics, we determined the "best" neighborhood in Pittsburgh.
 
 **C.A.R.S.** Team Members:
-**C**ameron Boyce: ceb346@pitt.edu
-**A**urora Croyle: auc82@pitt.edu
-**R**eol Audhasse: rsa64@pitt.edu
+**C**ameron Boyce: ceb346@pitt.edu<br>
+**A**urora Croyle: auc82@pitt.edu<br>
+**R**eol Audhasse: rsa64@pitt.edu<br>
 **S**rihita Kandula srk306@pitt.edu
 
 # Datasets
