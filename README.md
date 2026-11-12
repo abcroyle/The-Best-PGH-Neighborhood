@@ -13,6 +13,6 @@ Using these metrics, we determined the "best" neighborhood in Pittsburgh.
 
 # Datasets
 [Pittsburgh Regional Transit Stops](https://data.wprdc.org/dataset/prt-of-allegheny-county-transit-stops)
-[Pittsburgh Parks](https://data.wprdc.org/dataset/parks1)
+[Allegheny County Air Quality](https://data.wprdc.org/dataset/allegheny-county-air-quality)
 [City of Pittsburgh Facilities](https://data.wprdc.org/dataset/city-of-pittsburgh-facilities)
 [Monthly Criminal Activity](https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard)
